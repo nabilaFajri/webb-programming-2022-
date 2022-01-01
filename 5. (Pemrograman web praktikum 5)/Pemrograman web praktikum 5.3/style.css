@@ -1,0 +1,66 @@
+.row {
+    width: 900px;
+    height: 600px;
+    margin: auto;
+}
+
+.column {
+    border: 1px black;
+    float: left;
+    margin: 10px;
+}
+
+.lightgreen {
+    border: 1px black;
+    width: 200px;
+    height: 80px;
+    float: left;
+    margin-left: 10px;
+    background-color: lightgreen;
+}
+
+.yellow {
+    border: 1px black;
+    width: 650px;
+    height: 80px;
+    float: left;
+    margin-left: 10px;
+    background-color: yellow;
+}
+
+.red {
+    border: 1px black;
+    width: 200px;
+    height: 400px;
+    float: left;
+    margin-left: 10px;
+    background-color: red;
+}
+
+.blue {
+    border: 1px black;
+    width: 430px;
+    height: 400px;
+    float: left;
+    margin-left: 10px;
+    background-color: blue;
+}
+
+.grey {
+    border: 1px black;
+    width: 200px;
+    height: 400px;
+    float: left;
+    margin-left: 10px;
+    background-color: grey;
+}
+
+.purple {
+    border: 1px black;
+    width: 870px;
+    height: 60px;
+    float: left;
+    margin-left: 10px;
+    background-color: purple;
+}
+

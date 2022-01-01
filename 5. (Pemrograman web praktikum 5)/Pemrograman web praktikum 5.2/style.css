@@ -1,0 +1,58 @@
+.row {
+    width: 900px;
+    height: 600px;
+    margin: auto;
+}
+
+.column {
+    border: 1px black;
+    float: left;
+    margin: 10px;
+}
+
+
+
+.lightgreen {
+    border: 1px black;
+    width: 800px;
+    height: 70px;
+    float: left;
+    margin-left: 50px;
+    background-color: lightgreen;
+}
+
+.yellow {
+    border: 1px black;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-left: 50px;
+    background-color: yellow;
+}
+
+.goldenrod {
+    border: 1px black;
+    width: 570px;
+    height: 200px;
+    float: left;
+    margin-left: 20px;
+    background-color: goldenrod;
+}
+
+.salmon {
+    border: 1px black;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-left: 50px;
+    background-color: salmon;
+}
+
+.blueviolet {
+    border: 1px black;
+    width: 570px;
+    height: 200px;
+    float: left;
+    margin-left: 20px;
+    background-color: blueviolet;
+}
