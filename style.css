@@ -1,0 +1,10 @@
+/* navbar */
+.nav-link {
+    text-transform: capitalize;
+    margin-right: 10px;
+    text-decoration: underline;
+  }
+
+section {
+    padding-top: 9rem;
+}
